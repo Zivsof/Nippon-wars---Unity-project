@@ -1,0 +1,69 @@
+root ground: 0 0 0 0 0 0 1 1 1
+root hips: 0 0 0 0 0 0 1 1 1
+pelvis: 0 0 0 0 0 0 1 1 1
+spine lower: 0 0 0 0 0 0 1 1 1
+spine upper: 0 0 0 0 0 0 1 1 1
+head neck lower: 0 0 0 0 0 0 1 1 1
+head neck upper: 0 0 0 0 0 0 1 1 1
+head jaw: 0 0 0 0 0 0 1 1 1
+arm right shoulder 1: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2: 0 0 0 0 0 0 1 1 1
+arm right elbow: 0 0 0 0 0 0 1 1 1
+arm right wrist: 0 0 0 0 0 0 1 1 1
+arm right finger a1: 0 0 0 0 0 0 1 1 1
+arm right finger a2: 0 0 0 0 0 0 1 1 1
+arm right finger a3: 0 0 0 0 0 0 1 1 1
+arm right finger b1: 0 0 0 0 0 0 1 1 1
+arm right finger b2: 0 0 0 0 0 0 1 1 1
+arm right finger b3: 0 0 0 0 0 0 1 1 1
+arm right finger c1: 0 0 0 0 0 0 1 1 1
+arm right finger c2: 0 0 0 0 0 0 1 1 1
+arm right finger c3: 0 0 0 0 0 0 1 1 1
+weapon: 0 0 0 0 0 0 1 1 1
+arm right elbow twist: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2 twist: 0 0 0 0 0 0 1 1 1
+arm left shoulder 1: 0 0 0 0 0 0 1 1 1
+arm left shoulder 2: 0 0 0 0 0 0 1 1 1
+arm left elbow: 0 0 0 0 0 0 1 1 1
+arm left wrist: 0 0 0 0 0 0 1 1 1
+arm left finger a1: 0 0 0 0 0 0 1 1 1
+arm left finger a2: 0 0 0 0 0 0 1 1 1
+arm left finger a3: 0 0 0 0 0 0 1 1 1
+arm left finger b1: 0 0 0 0 0 0 1 1 1
+arm left finger b2: 0 0 0 0 0 0 1 1 1
+arm left finger b3: 0 0 0 0 0 0 1 1 1
+arm left finger c1: 0 0 0 0 0 0 1 1 1
+arm left finger c2: 0 0 0 0 0 0 1 1 1
+arm left finger c3: 0 0 0 0 0 0 1 1 1
+arm left elbow twist: 0 0 0 0 0 0 1 1 1
+arm left shoulder 2 twist: 0 0 0 0 0 0 1 1 1
+leg right thigh: 0 0 0 0 0 0 1 1 1
+leg right knee: 0 0 0 0 0 0 1 1 1
+leg right ankle: 0 0 0 0 0 0 1 1 1
+leg right toe 1: 0 0 0 0 0 0 1 1 1
+leg right toe 2: 0 0 0 0 0 0 1 1 1
+leg right toe 3: 0 0 0 0 0 0 1 1 1
+leg right toe 4: 0 0 0 0 0 0 1 1 1
+leg right toe 5: 0 0 0 0 0 0 1 1 1
+leg right toe 6: 0 0 0 0 0 0 1 1 1
+leg right toe 7: 0 0 0 0 0 0 1 1 1
+leg right toe 8: 0 0 0 0 0 0 1 1 1
+leg right thigh twist: 0 0 0 0 0 0 1 1 1
+leg left thigh: 0 0 0 0 0 0 1 1 1
+leg left knee: 0 0 0 0 0 0 1 1 1
+leg left ankle: 0 0 0 0 0 0 1 1 1
+leg left toe 1: 0 0 0 0 0 0 1 1 1
+leg left toe 2: 0 0 0 0 0 0 1 1 1
+leg left toe 3: 0 0 0 0 0 0 1 1 1
+leg left toe 4: 0 0 0 0 0 0 1 1 1
+leg left toe 5: 0 0 0 0 0 0 1 1 1
+leg left toe 6: 0 0 0 0 0 0 1 1 1
+leg left toe 7: 0 0 0 0 0 0 1 1 1
+leg left toe 8: 0 0 0 0 0 0 1 1 1
+leg left thigh twist: 0 0 0 0 0 0 1 1 1
+tail 0: 0 0 0 0 0 0 1 1 1
+tail 1: 0 0 0 0 0 0 1 1 1
+tail 2: 0 0 0 0 0 0 1 1 1
+tail 3: 0 0 0 0 0 0 1 1 1
+tail 4: 0 0 0 0 0 0 1 1 1
+tail 5: 0 0 0 0 0 0 1 1 1

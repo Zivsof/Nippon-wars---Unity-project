@@ -1,0 +1,985 @@
+fileFormatVersion: 2
+guid: 5f551157204477a48bbf32ea0f4b5a29
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 25_+Belt C Buckle_0.1_16_16.003
+    100002: 25_+Ears|Default_0.1_16_16.003
+    100004: 25_+Face|Default_0.1_16_16.003
+    100006: 25_+Head Gear|Hair Default.Hair_0.3_16_16.003
+    100008: 25_+Head Gear|Hair Default.Hairband_0.1_16_16.003
+    100010: 25_+Sheath|Master Sheath_0.1_0_0.003
+    100012: 25_+Shield|Hylian Shield Back_0.1_0_0.002
+    100014: 25_+Sword|Master Sword Back_0.1_16_16.003
+    100016: 25_+Tunic.Champion Tunic Armcover_0.1_16_16.003
+    100018: 25_+Tunic.Champion Tunic Belt B_0.1_16_16.003
+    100020: 25_+Tunic.Champion Tunic Gauntlets_0.1_16_16.003
+    100022: 25_+Tunic.Champion Tunic Glove_0.1_16_16.003
+    100024: 25_+Tunic.Champion Tunic Tunic_0.1_16_16.003
+    100026: 25_+Tunic.Champion Tunic UnderShirts_0.1_16_16.003
+    100028: 25_+Tunic.Champion Tunic Upper Skin_0.1_16_16.003
+    100030: 25_-Ears|Cold_0.1_16_16.005
+    100032: 25_-Face|Cold_0.1_16_16.005
+    100034: 25_-Face|Damage_0.1_16_16.005
+    100036: 25_-Head Gear|Hair Long_0.3_0_0.002
+    100038: 25_-Head Gear|Hylian Hood.Hair_0.1_16_16.003
+    100040: 25_-Head Gear|Hylian Hood.Hood_0.1_16_16.003
+    100042: 25_-Shield|Hylian Shield Hand_0.1_0_0.003
+    100044: 25_-Skin|Cold (Champion Tunic)_0.1_16_16.003
+    100046: 25_-Skin|Cold (Hylian Tunic)_0.1_16_16.003
+    100048: 25_-Skin|Damage_0.1_16_16.003
+    100050: 25_-Sword|Master Sword Hand_1_0_0.003
+    100052: 25_-Tunic.Hylian Tunic Belt B_0.1_16_16.003
+    100054: 25_-Tunic.Hylian Tunic Beltmini_0.1_16_16.003
+    100056: 25_-Tunic.Hylian Tunic Chain_0.1_16_16.003
+    100058: 25_-Tunic.Hylian Tunic Metal_0.1_16_16.003
+    100060: 25_-Tunic.Hylian Tunic Skin_0.1_16_16.003
+    100062: 25_Belt A Buckle_0.1_16_16.003
+    100064: 25_Leg Gear|Hylian Trousers_0.1_16_16.003
+    100066: 31_+Slate|Waist.Screen_0.5_0_0.003
+    100068: 31_+Slate|Waist.Tablet_0.3_0_0
+    100070: 31_-Slate|Hand.Screen_0.5_0_0.003
+    100072: 31_-Slate|Hand.Tablet_0.3_0_0
+    100074: 5_+Earring_0.1_16_16.002
+    100076: 5_Eye White Left_0.1_16_16.002
+    100078: 5_Eye White Right_0.1_16_16.002
+    100080: 7_Eyeball Left_0.1_16_16.002
+    100082: 7_Eyeball Right_0.1_16_16.002
+    100084: 7_Eyelashes_0.1_16_16.001
+    100086: arm left elbow
+    100088: arm left elbow adj
+    100090: arm left elbow adj_end
+    100092: arm left finger 1a
+    100094: arm left finger 1b
+    100096: arm left finger 1c
+    100098: arm left finger 1c_end
+    100100: arm left finger 2a
+    100102: arm left finger 2b
+    100104: arm left finger 2c
+    100106: arm left finger 2c_end
+    100108: arm left finger 3a
+    100110: arm left finger 3b
+    100112: arm left finger 3c
+    100114: arm left finger 3c_end
+    100116: arm left finger 4a
+    100118: arm left finger 4b
+    100120: arm left finger 4c
+    100122: arm left finger 4c_end
+    100124: arm left finger 5a
+    100126: arm left finger 5b
+    100128: arm left finger 5c
+    100130: arm left finger 5c_end
+    100132: arm left shoulder 1
+    100134: arm left shoulder 1 adj
+    100136: arm left shoulder 1 adj_end
+    100138: arm left shoulder 2
+    100140: arm left shoulder 2 adj
+    100142: arm left shoulder 2 adj_end
+    100144: arm left shoulderpad
+    100146: arm left shoulderpad_end
+    100148: arm left wrist
+    100150: arm left wrist adj
+    100152: arm left wrist adj_end
+    100154: arm right elbow
+    100156: arm right elbow adj
+    100158: arm right elbow adj_end
+    100160: arm right finger 1a
+    100162: arm right finger 1b
+    100164: arm right finger 1c
+    100166: arm right finger 1c_end
+    100168: arm right finger 2a
+    100170: arm right finger 2b
+    100172: arm right finger 2c
+    100174: arm right finger 2c_end
+    100176: arm right finger 3a
+    100178: arm right finger 3b
+    100180: arm right finger 3c
+    100182: arm right finger 3c_end
+    100184: arm right finger 4a
+    100186: arm right finger 4b
+    100188: arm right finger 4c
+    100190: arm right finger 4c_end
+    100192: arm right finger 5a
+    100194: arm right finger 5b
+    100196: arm right finger 5c
+    100198: arm right finger 5c_end
+    100200: arm right shoulder 1
+    100202: arm right shoulder 1 adj
+    100204: arm right shoulder 1 adj_end
+    100206: arm right shoulder 2
+    100208: arm right shoulder 2 adj
+    100210: arm right shoulder 2 adj_end
+    100212: arm right wrist
+    100214: arm right wrist adj
+    100216: arm right wrist adj_end
+    100218: Armature
+    100220: belt a 1a
+    100222: belt a 1b
+    100224: belt a 1c
+    100226: belt a 1c_end
+    100228: belt c 1a
+    100230: belt c 1a_end
+    100232: belt c 1b
+    100234: belt c 1b_end
+    100236: belt c 1c
+    100238: belt c 1c_end
+    100240: belt c 1d
+    100242: belt c 1d_end
+    100244: belt c 1e
+    100246: belt c 1e_end
+    100248: belt c 1f
+    100250: belt c 1f_end
+    100252: belt c 1g
+    100254: belt c 1g_end
+    100256: belt c 1h
+    100258: belt c 1h_end
+    100260: bracket waist
+    100262: bracket waist_end
+    100264: eyeball left
+    100266: eyeball left_end
+    100268: eyeball right
+    100270: eyeball right_end
+    100272: face root
+    100274: hair back left 1a
+    100276: hair back left 1b
+    100278: hair back left 1b_end
+    100280: hair back left 2a
+    100282: hair back left 2b
+    100284: hair back left 2b_end
+    100286: hair back right 1a
+    100288: hair back right 1b
+    100290: hair back right 1b_end
+    100292: hair back right 2a
+    100294: hair back right 2b
+    100296: hair back right 2b_end
+    100298: hair front left 1a
+    100300: hair front left 1b
+    100302: hair front left 1b_end
+    100304: hair front middle 1a
+    100306: hair front middle 1b
+    100308: hair front middle 1c
+    100310: hair front middle 1c_end
+    100312: hair front right 1a
+    100314: hair front right 1b
+    100316: hair front right 1b_end
+    100318: hair front right 2a
+    100320: hair front right 2b
+    100322: hair front right 2b_end
+    100324: hair left 1a
+    100326: hair left 1b
+    100328: hair left 1b_end
+    100330: hair left 2a
+    100332: hair left 2b
+    100334: hair left 2b_end
+    100336: hair long left 1a
+    100338: hair long left 1b
+    100340: hair long left 1c
+    100342: hair long left 1c_end
+    100344: hair long middle 1a
+    100346: hair long middle 1b
+    100348: hair long middle 1c
+    100350: hair long middle 1c_end
+    100352: hair long right 1a
+    100354: hair long right 1b
+    100356: hair long right 1c
+    100358: hair long right 1c_end
+    100360: hair ponytail left 1a
+    100362: hair ponytail left 1b
+    100364: hair ponytail left 1b_end
+    100366: hair ponytail middle 1a
+    100368: hair ponytail middle 1b
+    100370: hair ponytail middle 1c
+    100372: hair ponytail middle 1c_end
+    100374: hair ponytail middle 1d
+    100376: hair ponytail middle 1d_end
+    100378: hair ponytail right 1a
+    100380: hair ponytail right 1b
+    100382: hair ponytail right 1b_end
+    100384: hair root
+    100386: hair side left 1a
+    100388: hair side left 1b
+    100390: hair side left 1c
+    100392: hair side left 1c_end
+    100394: hair side left 2a
+    100396: hair side left 2b
+    100398: hair side left 2b_end
+    100400: hair side left 3a
+    100402: hair side left 3b
+    100404: hair side left 3b_end
+    100406: hair side right 1a
+    100408: hair side right 1b
+    100410: hair side right 1c
+    100412: hair side right 1c_end
+    100414: hair side right 2a
+    100416: hair side right 2b
+    100418: hair side right 2b_end
+    100420: hair side right 3a
+    100422: hair side right 3b
+    100424: hair side right 3b_end
+    100426: hair top 1a
+    100428: hair top 1b
+    100430: hair top 1c
+    100432: hair top 1c_end
+    100434: hair top 2a
+    100436: hair top 2b
+    100438: hair top 2b_end
+    100440: hair top 3a
+    100442: hair top 3b
+    100444: hair top 3b_end
+    100446: head cheek lower left
+    100448: head cheek lower left_end
+    100450: head cheek lower right
+    100452: head cheek lower right_end
+    100454: head cheek upper left
+    100456: head cheek upper left_end
+    100458: head cheek upper right
+    100460: head cheek upper right_end
+    100462: head chin
+    100464: head chin_end
+    100466: head ear left
+    100468: head ear left_end
+    100470: head ear right
+    100472: head ear right_end
+    100474: head eye corner lower left
+    100476: head eye corner lower left_end
+    100478: head eye corner lower right
+    100480: head eye corner lower right_end
+    100482: head eye corner upper left
+    100484: head eye corner upper left_end
+    100486: head eye corner upper right
+    100488: head eye corner upper right_end
+    100490: head eyebrow left 1a
+    100492: head eyebrow left 1a_end
+    100494: head eyebrow left 1b
+    100496: head eyebrow left 1b_end
+    100498: head eyebrow left 1c
+    100500: head eyebrow left 1c_end
+    100502: head eyebrow right 1a
+    100504: head eyebrow right 1a_end
+    100506: head eyebrow right 1b
+    100508: head eyebrow right 1b_end
+    100510: head eyebrow right 1c
+    100512: head eyebrow right 1c_end
+    100514: head eyelid lower left
+    100516: head eyelid lower left_end
+    100518: head eyelid lower right
+    100520: head eyelid lower right_end
+    100522: head eyelid upper left
+    100524: head eyelid upper left_end
+    100526: head eyelid upper right
+    100528: head eyelid upper right_end
+    100530: head jaw
+    100532: head lip lower
+    100534: head lip lower left
+    100536: head lip lower left_end
+    100538: head lip lower right
+    100540: head lip lower right_end
+    100542: head lip lower_end
+    100544: head lip upper
+    100546: head lip upper left
+    100548: head lip upper left_end
+    100550: head lip upper right
+    100552: head lip upper right_end
+    100554: head lip upper_end
+    100556: head mouth corner left
+    100558: head mouth corner left_end
+    100560: head mouth corner right
+    100562: head mouth corner right_end
+    100564: head neck lower
+    100566: head neck upper
+    100568: head nose
+    100570: head nose_end
+    100572: head teeth lower
+    100574: head teeth lower_end
+    100576: head teeth upper
+    100578: head teeth upper_end
+    100580: hood armor back 1b
+    100582: hood armor back 1b_end
+    100584: hood back 1a
+    100586: hood front left 1a
+    100588: hood front left 1a_end
+    100590: hood front left 1b
+    100592: hood front left 1b_end
+    100594: hood front middle
+    100596: hood front middle_end
+    100598: hood front right 1a
+    100600: hood front right 1a_end
+    100602: hood front right 1b
+    100604: hood front right 1b_end
+    100606: leg left ankle
+    100608: leg left ankle adj
+    100610: leg left ankle adj_end
+    100612: leg left knee
+    100614: leg left knee adj
+    100616: leg left knee adj_end
+    100618: leg left thigh
+    100620: leg left toes
+    100622: leg left toes_end
+    100624: leg right ankle
+    100626: leg right ankle adj
+    100628: leg right ankle adj_end
+    100630: leg right knee
+    100632: leg right knee adj
+    100634: leg right knee adj_end
+    100636: leg right thigh
+    100638: leg right toes
+    100640: leg right toes_end
+    100642: mantle left 1a
+    100644: mantle left 1b
+    100646: mantle left 1c
+    100648: mantle left 1d
+    100650: mantle left 1d_end
+    100652: mantle middle 1a
+    100654: mantle middle 1b
+    100656: mantle middle 1c
+    100658: mantle middle 1d
+    100660: mantle middle 1d_end
+    100662: mantle right 1a
+    100664: mantle right 1b
+    100666: mantle right 1c
+    100668: mantle right 1d
+    100670: mantle right 1d_end
+    100672: root ground
+    100674: root hips
+    100676: sheath
+    100678: sheath root
+    100680: sheath_end
+    100682: shield
+    100684: shield back
+    100686: shield back_end
+    100688: shield_end
+    100690: skirt back left 1a
+    100692: skirt back left 1b
+    100694: skirt back left 1c
+    100696: skirt back left 1c_end
+    100698: skirt back middle 1a
+    100700: skirt back middle 1b
+    100702: skirt back middle 1c
+    100704: skirt back middle 1c_end
+    100706: skirt back right 1a
+    100708: skirt back right 1b
+    100710: skirt back right 1c
+    100712: skirt back right 1c_end
+    100714: skirt front left 1a
+    100716: skirt front left 1b
+    100718: skirt front left 1c
+    100720: skirt front left 1c_end
+    100722: skirt front middle 1a
+    100724: skirt front middle 1b
+    100726: skirt front middle 1c
+    100728: skirt front middle 1c_end
+    100730: skirt front right 1a
+    100732: skirt front right 1b
+    100734: skirt front right 1c
+    100736: skirt front right 1c_end
+    100738: slate hand
+    100740: slate hand_end
+    100742: slate waist
+    100744: slate waist_end
+    100746: spine lower
+    100748: spine upper
+    100750: sword back
+    100752: sword back_end
+    100754: //RootNode
+    100756: waist
+    100758: weapon back
+    100760: weapon right
+    100762: weapon right_end
+    400000: 25_+Belt C Buckle_0.1_16_16.003
+    400002: 25_+Ears|Default_0.1_16_16.003
+    400004: 25_+Face|Default_0.1_16_16.003
+    400006: 25_+Head Gear|Hair Default.Hair_0.3_16_16.003
+    400008: 25_+Head Gear|Hair Default.Hairband_0.1_16_16.003
+    400010: 25_+Sheath|Master Sheath_0.1_0_0.003
+    400012: 25_+Shield|Hylian Shield Back_0.1_0_0.002
+    400014: 25_+Sword|Master Sword Back_0.1_16_16.003
+    400016: 25_+Tunic.Champion Tunic Armcover_0.1_16_16.003
+    400018: 25_+Tunic.Champion Tunic Belt B_0.1_16_16.003
+    400020: 25_+Tunic.Champion Tunic Gauntlets_0.1_16_16.003
+    400022: 25_+Tunic.Champion Tunic Glove_0.1_16_16.003
+    400024: 25_+Tunic.Champion Tunic Tunic_0.1_16_16.003
+    400026: 25_+Tunic.Champion Tunic UnderShirts_0.1_16_16.003
+    400028: 25_+Tunic.Champion Tunic Upper Skin_0.1_16_16.003
+    400030: 25_-Ears|Cold_0.1_16_16.005
+    400032: 25_-Face|Cold_0.1_16_16.005
+    400034: 25_-Face|Damage_0.1_16_16.005
+    400036: 25_-Head Gear|Hair Long_0.3_0_0.002
+    400038: 25_-Head Gear|Hylian Hood.Hair_0.1_16_16.003
+    400040: 25_-Head Gear|Hylian Hood.Hood_0.1_16_16.003
+    400042: 25_-Shield|Hylian Shield Hand_0.1_0_0.003
+    400044: 25_-Skin|Cold (Champion Tunic)_0.1_16_16.003
+    400046: 25_-Skin|Cold (Hylian Tunic)_0.1_16_16.003
+    400048: 25_-Skin|Damage_0.1_16_16.003
+    400050: 25_-Sword|Master Sword Hand_1_0_0.003
+    400052: 25_-Tunic.Hylian Tunic Belt B_0.1_16_16.003
+    400054: 25_-Tunic.Hylian Tunic Beltmini_0.1_16_16.003
+    400056: 25_-Tunic.Hylian Tunic Chain_0.1_16_16.003
+    400058: 25_-Tunic.Hylian Tunic Metal_0.1_16_16.003
+    400060: 25_-Tunic.Hylian Tunic Skin_0.1_16_16.003
+    400062: 25_Belt A Buckle_0.1_16_16.003
+    400064: 25_Leg Gear|Hylian Trousers_0.1_16_16.003
+    400066: 31_+Slate|Waist.Screen_0.5_0_0.003
+    400068: 31_+Slate|Waist.Tablet_0.3_0_0
+    400070: 31_-Slate|Hand.Screen_0.5_0_0.003
+    400072: 31_-Slate|Hand.Tablet_0.3_0_0
+    400074: 5_+Earring_0.1_16_16.002
+    400076: 5_Eye White Left_0.1_16_16.002
+    400078: 5_Eye White Right_0.1_16_16.002
+    400080: 7_Eyeball Left_0.1_16_16.002
+    400082: 7_Eyeball Right_0.1_16_16.002
+    400084: 7_Eyelashes_0.1_16_16.001
+    400086: arm left elbow
+    400088: arm left elbow adj
+    400090: arm left elbow adj_end
+    400092: arm left finger 1a
+    400094: arm left finger 1b
+    400096: arm left finger 1c
+    400098: arm left finger 1c_end
+    400100: arm left finger 2a
+    400102: arm left finger 2b
+    400104: arm left finger 2c
+    400106: arm left finger 2c_end
+    400108: arm left finger 3a
+    400110: arm left finger 3b
+    400112: arm left finger 3c
+    400114: arm left finger 3c_end
+    400116: arm left finger 4a
+    400118: arm left finger 4b
+    400120: arm left finger 4c
+    400122: arm left finger 4c_end
+    400124: arm left finger 5a
+    400126: arm left finger 5b
+    400128: arm left finger 5c
+    400130: arm left finger 5c_end
+    400132: arm left shoulder 1
+    400134: arm left shoulder 1 adj
+    400136: arm left shoulder 1 adj_end
+    400138: arm left shoulder 2
+    400140: arm left shoulder 2 adj
+    400142: arm left shoulder 2 adj_end
+    400144: arm left shoulderpad
+    400146: arm left shoulderpad_end
+    400148: arm left wrist
+    400150: arm left wrist adj
+    400152: arm left wrist adj_end
+    400154: arm right elbow
+    400156: arm right elbow adj
+    400158: arm right elbow adj_end
+    400160: arm right finger 1a
+    400162: arm right finger 1b
+    400164: arm right finger 1c
+    400166: arm right finger 1c_end
+    400168: arm right finger 2a
+    400170: arm right finger 2b
+    400172: arm right finger 2c
+    400174: arm right finger 2c_end
+    400176: arm right finger 3a
+    400178: arm right finger 3b
+    400180: arm right finger 3c
+    400182: arm right finger 3c_end
+    400184: arm right finger 4a
+    400186: arm right finger 4b
+    400188: arm right finger 4c
+    400190: arm right finger 4c_end
+    400192: arm right finger 5a
+    400194: arm right finger 5b
+    400196: arm right finger 5c
+    400198: arm right finger 5c_end
+    400200: arm right shoulder 1
+    400202: arm right shoulder 1 adj
+    400204: arm right shoulder 1 adj_end
+    400206: arm right shoulder 2
+    400208: arm right shoulder 2 adj
+    400210: arm right shoulder 2 adj_end
+    400212: arm right wrist
+    400214: arm right wrist adj
+    400216: arm right wrist adj_end
+    400218: Armature
+    400220: belt a 1a
+    400222: belt a 1b
+    400224: belt a 1c
+    400226: belt a 1c_end
+    400228: belt c 1a
+    400230: belt c 1a_end
+    400232: belt c 1b
+    400234: belt c 1b_end
+    400236: belt c 1c
+    400238: belt c 1c_end
+    400240: belt c 1d
+    400242: belt c 1d_end
+    400244: belt c 1e
+    400246: belt c 1e_end
+    400248: belt c 1f
+    400250: belt c 1f_end
+    400252: belt c 1g
+    400254: belt c 1g_end
+    400256: belt c 1h
+    400258: belt c 1h_end
+    400260: bracket waist
+    400262: bracket waist_end
+    400264: eyeball left
+    400266: eyeball left_end
+    400268: eyeball right
+    400270: eyeball right_end
+    400272: face root
+    400274: hair back left 1a
+    400276: hair back left 1b
+    400278: hair back left 1b_end
+    400280: hair back left 2a
+    400282: hair back left 2b
+    400284: hair back left 2b_end
+    400286: hair back right 1a
+    400288: hair back right 1b
+    400290: hair back right 1b_end
+    400292: hair back right 2a
+    400294: hair back right 2b
+    400296: hair back right 2b_end
+    400298: hair front left 1a
+    400300: hair front left 1b
+    400302: hair front left 1b_end
+    400304: hair front middle 1a
+    400306: hair front middle 1b
+    400308: hair front middle 1c
+    400310: hair front middle 1c_end
+    400312: hair front right 1a
+    400314: hair front right 1b
+    400316: hair front right 1b_end
+    400318: hair front right 2a
+    400320: hair front right 2b
+    400322: hair front right 2b_end
+    400324: hair left 1a
+    400326: hair left 1b
+    400328: hair left 1b_end
+    400330: hair left 2a
+    400332: hair left 2b
+    400334: hair left 2b_end
+    400336: hair long left 1a
+    400338: hair long left 1b
+    400340: hair long left 1c
+    400342: hair long left 1c_end
+    400344: hair long middle 1a
+    400346: hair long middle 1b
+    400348: hair long middle 1c
+    400350: hair long middle 1c_end
+    400352: hair long right 1a
+    400354: hair long right 1b
+    400356: hair long right 1c
+    400358: hair long right 1c_end
+    400360: hair ponytail left 1a
+    400362: hair ponytail left 1b
+    400364: hair ponytail left 1b_end
+    400366: hair ponytail middle 1a
+    400368: hair ponytail middle 1b
+    400370: hair ponytail middle 1c
+    400372: hair ponytail middle 1c_end
+    400374: hair ponytail middle 1d
+    400376: hair ponytail middle 1d_end
+    400378: hair ponytail right 1a
+    400380: hair ponytail right 1b
+    400382: hair ponytail right 1b_end
+    400384: hair root
+    400386: hair side left 1a
+    400388: hair side left 1b
+    400390: hair side left 1c
+    400392: hair side left 1c_end
+    400394: hair side left 2a
+    400396: hair side left 2b
+    400398: hair side left 2b_end
+    400400: hair side left 3a
+    400402: hair side left 3b
+    400404: hair side left 3b_end
+    400406: hair side right 1a
+    400408: hair side right 1b
+    400410: hair side right 1c
+    400412: hair side right 1c_end
+    400414: hair side right 2a
+    400416: hair side right 2b
+    400418: hair side right 2b_end
+    400420: hair side right 3a
+    400422: hair side right 3b
+    400424: hair side right 3b_end
+    400426: hair top 1a
+    400428: hair top 1b
+    400430: hair top 1c
+    400432: hair top 1c_end
+    400434: hair top 2a
+    400436: hair top 2b
+    400438: hair top 2b_end
+    400440: hair top 3a
+    400442: hair top 3b
+    400444: hair top 3b_end
+    400446: head cheek lower left
+    400448: head cheek lower left_end
+    400450: head cheek lower right
+    400452: head cheek lower right_end
+    400454: head cheek upper left
+    400456: head cheek upper left_end
+    400458: head cheek upper right
+    400460: head cheek upper right_end
+    400462: head chin
+    400464: head chin_end
+    400466: head ear left
+    400468: head ear left_end
+    400470: head ear right
+    400472: head ear right_end
+    400474: head eye corner lower left
+    400476: head eye corner lower left_end
+    400478: head eye corner lower right
+    400480: head eye corner lower right_end
+    400482: head eye corner upper left
+    400484: head eye corner upper left_end
+    400486: head eye corner upper right
+    400488: head eye corner upper right_end
+    400490: head eyebrow left 1a
+    400492: head eyebrow left 1a_end
+    400494: head eyebrow left 1b
+    400496: head eyebrow left 1b_end
+    400498: head eyebrow left 1c
+    400500: head eyebrow left 1c_end
+    400502: head eyebrow right 1a
+    400504: head eyebrow right 1a_end
+    400506: head eyebrow right 1b
+    400508: head eyebrow right 1b_end
+    400510: head eyebrow right 1c
+    400512: head eyebrow right 1c_end
+    400514: head eyelid lower left
+    400516: head eyelid lower left_end
+    400518: head eyelid lower right
+    400520: head eyelid lower right_end
+    400522: head eyelid upper left
+    400524: head eyelid upper left_end
+    400526: head eyelid upper right
+    400528: head eyelid upper right_end
+    400530: head jaw
+    400532: head lip lower
+    400534: head lip lower left
+    400536: head lip lower left_end
+    400538: head lip lower right
+    400540: head lip lower right_end
+    400542: head lip lower_end
+    400544: head lip upper
+    400546: head lip upper left
+    400548: head lip upper left_end
+    400550: head lip upper right
+    400552: head lip upper right_end
+    400554: head lip upper_end
+    400556: head mouth corner left
+    400558: head mouth corner left_end
+    400560: head mouth corner right
+    400562: head mouth corner right_end
+    400564: head neck lower
+    400566: head neck upper
+    400568: head nose
+    400570: head nose_end
+    400572: head teeth lower
+    400574: head teeth lower_end
+    400576: head teeth upper
+    400578: head teeth upper_end
+    400580: hood armor back 1b
+    400582: hood armor back 1b_end
+    400584: hood back 1a
+    400586: hood front left 1a
+    400588: hood front left 1a_end
+    400590: hood front left 1b
+    400592: hood front left 1b_end
+    400594: hood front middle
+    400596: hood front middle_end
+    400598: hood front right 1a
+    400600: hood front right 1a_end
+    400602: hood front right 1b
+    400604: hood front right 1b_end
+    400606: leg left ankle
+    400608: leg left ankle adj
+    400610: leg left ankle adj_end
+    400612: leg left knee
+    400614: leg left knee adj
+    400616: leg left knee adj_end
+    400618: leg left thigh
+    400620: leg left toes
+    400622: leg left toes_end
+    400624: leg right ankle
+    400626: leg right ankle adj
+    400628: leg right ankle adj_end
+    400630: leg right knee
+    400632: leg right knee adj
+    400634: leg right knee adj_end
+    400636: leg right thigh
+    400638: leg right toes
+    400640: leg right toes_end
+    400642: mantle left 1a
+    400644: mantle left 1b
+    400646: mantle left 1c
+    400648: mantle left 1d
+    400650: mantle left 1d_end
+    400652: mantle middle 1a
+    400654: mantle middle 1b
+    400656: mantle middle 1c
+    400658: mantle middle 1d
+    400660: mantle middle 1d_end
+    400662: mantle right 1a
+    400664: mantle right 1b
+    400666: mantle right 1c
+    400668: mantle right 1d
+    400670: mantle right 1d_end
+    400672: root ground
+    400674: root hips
+    400676: sheath
+    400678: sheath root
+    400680: sheath_end
+    400682: shield
+    400684: shield back
+    400686: shield back_end
+    400688: shield_end
+    400690: skirt back left 1a
+    400692: skirt back left 1b
+    400694: skirt back left 1c
+    400696: skirt back left 1c_end
+    400698: skirt back middle 1a
+    400700: skirt back middle 1b
+    400702: skirt back middle 1c
+    400704: skirt back middle 1c_end
+    400706: skirt back right 1a
+    400708: skirt back right 1b
+    400710: skirt back right 1c
+    400712: skirt back right 1c_end
+    400714: skirt front left 1a
+    400716: skirt front left 1b
+    400718: skirt front left 1c
+    400720: skirt front left 1c_end
+    400722: skirt front middle 1a
+    400724: skirt front middle 1b
+    400726: skirt front middle 1c
+    400728: skirt front middle 1c_end
+    400730: skirt front right 1a
+    400732: skirt front right 1b
+    400734: skirt front right 1c
+    400736: skirt front right 1c_end
+    400738: slate hand
+    400740: slate hand_end
+    400742: slate waist
+    400744: slate waist_end
+    400746: spine lower
+    400748: spine upper
+    400750: sword back
+    400752: sword back_end
+    400754: //RootNode
+    400756: waist
+    400758: weapon back
+    400760: weapon right
+    400762: weapon right_end
+    2100000: 7_Eyelashes_0.1_16_16.001
+    2100002: 7_Eyeball Right_0.1_16_16.002
+    2100004: 7_Eyeball Left_0.1_16_16.002
+    2100006: 5_Eye White Right_0.1_16_16.002
+    2100008: 5_Eye White Left_0.1_16_16.002
+    2100010: 5_+Earring_0.1_16_16.002
+    2100012: 31_-Slate_Hand.Tablet_0.3_0_0
+    2100014: 31_-Slate_Hand.Screen_0.5_0_0.003
+    2100016: 31_+Slate_Waist.Tablet_0.3_0_0
+    2100018: 31_+Slate_Waist.Screen_0.5_0_0.003
+    2100020: 25_Leg Gear_Hylian Trousers_0.1_16_16.003
+    2100022: 25_Belt A Buckle_0.1_16_16.003
+    2100024: 25_-Tunic.Hylian Tunic Skin_0.1_16_16.003
+    2100026: 25_-Tunic.Hylian Tunic Metal_0.1_16_16.003
+    2100028: 25_-Tunic.Hylian Tunic Chain_0.1_16_16.003
+    2100030: 25_-Tunic.Hylian Tunic Beltmini_0.1_16_16.003
+    2100032: 25_-Tunic.Hylian Tunic Belt B_0.1_16_16.003
+    2100034: 25_-Sword_Master Sword Hand_1_0_0.003
+    2100036: 25_-Skin_Damage_0.1_16_16.003
+    2100038: 25_-Skin_Cold (Hylian Tunic)_0.1_16_16.003
+    2100040: 25_-Skin_Cold (Champion Tunic)_0.1_16_16.003
+    2100042: 25_-Shield_Hylian Shield Hand_0.1_0_0.003
+    2100044: 25_-Head Gear_Hylian Hood.Hood_0.1_16_16.003
+    2100046: 25_-Head Gear_Hylian Hood.Hair_0.1_16_16.003
+    2100048: 25_-Head Gear_Hair Long_0.3_0_0.002
+    2100050: 25_-Face_Damage_0.1_16_16.005
+    2100052: 25_-Face_Cold_0.1_16_16.005
+    2100054: 25_-Ears_Cold_0.1_16_16.005
+    2100056: 25_+Tunic.Champion Tunic Upper Skin_0.1_16_16.003
+    2100058: 25_+Tunic.Champion Tunic UnderShirts_0.1_16_16.003
+    2100060: 25_+Tunic.Champion Tunic Tunic_0.1_16_16.003
+    2100062: 25_+Tunic.Champion Tunic Glove_0.1_16_16.003
+    2100064: 25_+Tunic.Champion Tunic Gauntlets_0.1_16_16.003
+    2100066: 25_+Tunic.Champion Tunic Belt B_0.1_16_16.003
+    2100068: 25_+Tunic.Champion Tunic Armcover_0.1_16_16.003
+    2100070: 25_+Sword_Master Sword Back_0.1_16_16.003
+    2100072: 25_+Shield_Hylian Shield Back_0.1_0_0.002
+    2100074: 25_+Sheath_Master Sheath_0.1_0_0.003
+    2100076: 25_+Head Gear_Hair Default.Hairband_0.1_16_16.003
+    2100078: 25_+Head Gear_Hair Default.Hair_0.3_16_16.003
+    2100080: 25_+Face_Default_0.1_16_16.003
+    2100082: 25_+Ears_Default_0.1_16_16.003
+    2100084: 25_+Belt C Buckle_0.1_16_16.003
+    4300000: 7_Eyelashes_0.1_16_16.001
+    4300002: 7_Eyeball Right_0.1_16_16.002
+    4300004: 7_Eyeball Left_0.1_16_16.002
+    4300006: 5_Eye White Right_0.1_16_16.002
+    4300008: 5_Eye White Left_0.1_16_16.002
+    4300010: 5_+Earring_0.1_16_16.002
+    4300012: 31_-Slate|Hand.Tablet_0.3_0_0
+    4300014: 31_-Slate|Hand.Screen_0.5_0_0.003
+    4300016: 31_+Slate|Waist.Tablet_0.3_0_0
+    4300018: 31_+Slate|Waist.Screen_0.5_0_0.003
+    4300020: 25_Leg Gear|Hylian Trousers_0.1_16_16.003
+    4300022: 25_Belt A Buckle_0.1_16_16.003
+    4300024: 25_-Tunic.Hylian Tunic Skin_0.1_16_16.003
+    4300026: 25_-Tunic.Hylian Tunic Metal_0.1_16_16.003
+    4300028: 25_-Tunic.Hylian Tunic Chain_0.1_16_16.003
+    4300030: 25_-Tunic.Hylian Tunic Beltmini_0.1_16_16.003
+    4300032: 25_-Tunic.Hylian Tunic Belt B_0.1_16_16.003
+    4300034: 25_-Sword|Master Sword Hand_1_0_0.003
+    4300036: 25_-Skin|Damage_0.1_16_16.003
+    4300038: 25_-Skin|Cold (Hylian Tunic)_0.1_16_16.003
+    4300040: 25_-Skin|Cold (Champion Tunic)_0.1_16_16.003
+    4300042: 25_-Shield|Hylian Shield Hand_0.1_0_0.003
+    4300044: 25_-Head Gear|Hylian Hood.Hood_0.1_16_16.003
+    4300046: 25_-Head Gear|Hylian Hood.Hair_0.1_16_16.003
+    4300048: 25_-Head Gear|Hair Long_0.3_0_0.002
+    4300050: 25_-Face|Damage_0.1_16_16.005
+    4300052: 25_-Face|Cold_0.1_16_16.005
+    4300054: 25_-Ears|Cold_0.1_16_16.005
+    4300056: 25_+Tunic.Champion Tunic Upper Skin_0.1_16_16.003
+    4300058: 25_+Tunic.Champion Tunic UnderShirts_0.1_16_16.003
+    4300060: 25_+Tunic.Champion Tunic Tunic_0.1_16_16.003
+    4300062: 25_+Tunic.Champion Tunic Glove_0.1_16_16.003
+    4300064: 25_+Tunic.Champion Tunic Gauntlets_0.1_16_16.003
+    4300066: 25_+Tunic.Champion Tunic Belt B_0.1_16_16.003
+    4300068: 25_+Tunic.Champion Tunic Armcover_0.1_16_16.003
+    4300070: 25_+Sword|Master Sword Back_0.1_16_16.003
+    4300072: 25_+Shield|Hylian Shield Back_0.1_0_0.002
+    4300074: 25_+Sheath|Master Sheath_0.1_0_0.003
+    4300076: 25_+Head Gear|Hair Default.Hairband_0.1_16_16.003
+    4300078: 25_+Head Gear|Hair Default.Hair_0.3_16_16.003
+    4300080: 25_+Face|Default_0.1_16_16.003
+    4300082: 25_+Ears|Default_0.1_16_16.003
+    4300084: 25_+Belt C Buckle_0.1_16_16.003
+    9500000: //RootNode
+    13700000: 25_+Belt C Buckle_0.1_16_16.003
+    13700002: 25_+Ears|Default_0.1_16_16.003
+    13700004: 25_+Face|Default_0.1_16_16.003
+    13700006: 25_+Head Gear|Hair Default.Hair_0.3_16_16.003
+    13700008: 25_+Head Gear|Hair Default.Hairband_0.1_16_16.003
+    13700010: 25_+Sheath|Master Sheath_0.1_0_0.003
+    13700012: 25_+Shield|Hylian Shield Back_0.1_0_0.002
+    13700014: 25_+Sword|Master Sword Back_0.1_16_16.003
+    13700016: 25_+Tunic.Champion Tunic Armcover_0.1_16_16.003
+    13700018: 25_+Tunic.Champion Tunic Belt B_0.1_16_16.003
+    13700020: 25_+Tunic.Champion Tunic Gauntlets_0.1_16_16.003
+    13700022: 25_+Tunic.Champion Tunic Glove_0.1_16_16.003
+    13700024: 25_+Tunic.Champion Tunic Tunic_0.1_16_16.003
+    13700026: 25_+Tunic.Champion Tunic UnderShirts_0.1_16_16.003
+    13700028: 25_+Tunic.Champion Tunic Upper Skin_0.1_16_16.003
+    13700030: 25_-Ears|Cold_0.1_16_16.005
+    13700032: 25_-Face|Cold_0.1_16_16.005
+    13700034: 25_-Face|Damage_0.1_16_16.005
+    13700036: 25_-Head Gear|Hair Long_0.3_0_0.002
+    13700038: 25_-Head Gear|Hylian Hood.Hair_0.1_16_16.003
+    13700040: 25_-Head Gear|Hylian Hood.Hood_0.1_16_16.003
+    13700042: 25_-Shield|Hylian Shield Hand_0.1_0_0.003
+    13700044: 25_-Skin|Cold (Champion Tunic)_0.1_16_16.003
+    13700046: 25_-Skin|Cold (Hylian Tunic)_0.1_16_16.003
+    13700048: 25_-Skin|Damage_0.1_16_16.003
+    13700050: 25_-Sword|Master Sword Hand_1_0_0.003
+    13700052: 25_-Tunic.Hylian Tunic Belt B_0.1_16_16.003
+    13700054: 25_-Tunic.Hylian Tunic Beltmini_0.1_16_16.003
+    13700056: 25_-Tunic.Hylian Tunic Chain_0.1_16_16.003
+    13700058: 25_-Tunic.Hylian Tunic Metal_0.1_16_16.003
+    13700060: 25_-Tunic.Hylian Tunic Skin_0.1_16_16.003
+    13700062: 25_Belt A Buckle_0.1_16_16.003
+    13700064: 25_Leg Gear|Hylian Trousers_0.1_16_16.003
+    13700066: 31_+Slate|Waist.Screen_0.5_0_0.003
+    13700068: 31_+Slate|Waist.Tablet_0.3_0_0
+    13700070: 31_-Slate|Hand.Screen_0.5_0_0.003
+    13700072: 31_-Slate|Hand.Tablet_0.3_0_0
+    13700074: 5_+Earring_0.1_16_16.002
+    13700076: 5_Eye White Left_0.1_16_16.002
+    13700078: 5_Eye White Right_0.1_16_16.002
+    13700080: 7_Eyeball Left_0.1_16_16.002
+    13700082: 7_Eyeball Right_0.1_16_16.002
+    13700084: 7_Eyelashes_0.1_16_16.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

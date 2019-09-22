@@ -1,0 +1,8 @@
+saving information between scenes:
+https://www.sitepoint.com/saving-data-between-scenes-in-unity/
+
+Good buildings
+http://devassets.com/assets/fantasy-frost-environment/
+
+camera on rails tutorial
+https://www.youtube.com/watch?v=B3LYJINnYtE

@@ -1,0 +1,20 @@
+הסצינות במשחק:
+MAIN MENU
+מציג את האפשרויות:
+		Start - מתחיל את השלב Game World.
+		Tutorial - מתחיל את שלב ההדרכה של השחקן כיצד לשחק את המשחק.
+		Exit - יציאה וסגירת המשחק.
+
+Losing Title
+Victory Title
+שתי החלונות מציגות את האפשרויות:
+	1. Main Menu
+	2. Restart Game World
+	3. Exit the Game.
+
+
+שלושת הסצינות:
+1. Battle Scene
+2. Game World
+3. Tutorial
+

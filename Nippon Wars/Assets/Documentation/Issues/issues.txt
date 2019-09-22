@@ -1,0 +1,11 @@
+top priority (need to fix before the basic product):
+* If the player is attacking too fast, then the enemy doesn't have the time to react.
+* character can't attack after pressing "attack 1" on battle mode.
+
+lower priority (to fix if there's enough time):
+In global controller:
+change the enemy[] array to another data stracture because -  so the transfering of data (id, exp worth, hp and attack power) will be more efficient.
+
+
+Fixed issues:
+* when pressing 'Space bar' then the character automatically gets into battle mode. - fixed, but now causes problem with battle mode; character can't attack after pressing "attack 1" on battle mode.
